@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Wilfred Droog
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Wilfred 
 
 <!---
 WilfredDr/WilfredDr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
